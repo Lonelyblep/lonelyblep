@@ -27,12 +27,12 @@ collections:
         file: "about.md"
         fields:
           - { label: "Title", name: "title", widget: "hidden" }
-          - { label: "Layout", name: "title", widget: "hidden", default: "default" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Images"
         name: "images"
         file: "images.md"
         fields:
           - { label: "Title", name: "title", widget: "hidden" }
-          - { label: "Layout", name: "title", widget: "hidden", default: "default" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
           - { label: "Body", name: "body", widget: "markdown" }
