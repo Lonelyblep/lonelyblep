@@ -10,8 +10,7 @@ Jekyll::Hooks.register :posts, :post_write do |post|
 end
 
 def generate_tag_file(tag)
-  # generate tag file
   File.open("tags/#{tag}.md", "wb") do |file|
-    file << "---\nlayout: tagpage\ntag: #{tag}\n---\n"
+    file << "---\ntag-name: #{tag}\n---\n"
   end
 end
