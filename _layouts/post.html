@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="post-wrap"> 
+  <div class ="post-header">
+    <a href=""><span class="post-category">{{ page.categories }}</span></a>
+    <h1>{{ page.title }}</h1>
+    <p class="post-date">{{ page.date | date: '%A, %B %-d, %Y' }}</p>
+  </div>
+
+  <div class="post-content">
+    {{ content }}
+    
+    {% if page.tags != empty %}
+    <div class="post-tags">
+      {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+     <a href="/tags/{{ tag_name }}">#{{ tag_name }}</a>
+     {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>

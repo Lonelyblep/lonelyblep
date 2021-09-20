@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="page-content">
+  <h1>Posts tagged with "{{ page.tag }}"</h1>
+  <ul class="archive">
+    {% for post in site.tags[page.tag] %}
+      <li>
+        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+        <small>{{ post.date | date: '%B %-d, %Y' }}</small>
+        <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
+      </li>
+  {% endfor %}  
+  </ul>
+</div>

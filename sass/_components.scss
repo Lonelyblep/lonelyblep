@@ -1,0 +1,146 @@
+.section-nav { 
+
+  li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  outline: 0;
+  width: 8em;
+  height: 8em;
+  overflow: hidden;
+  color: var(--orange);
+  background: linear-gradient(var(--purp), var(--blue) 60%);
+  margin-bottom: var(--space-xs);
+  border-radius: 100%;  
+  box-shadow: 0 0px 10px var(--shadow);
+  z-index: 1;
+
+    &:hover {
+      transition: 0.3s ease 0.2s;
+      color: var(--blue);
+
+      &:before {
+        content: "";
+        position: absolute;
+        height: 300px;
+        width: 300px;
+        left: 50%;
+        transform: translatex(-50%);
+        box-sizing: border-box;
+        background-color: var(--orange);
+        border-radius: 40%;
+        animation: spin .7s linear forwards;
+        z-index: -1;
+      }
+    } 
+  }
+}
+
+
+.post-wrap {
+  margin-block: var(--space-xl);
+}
+
+.post-header {
+  position: relative;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.6);
+  padding: var(--space-m) var(--space-xl);  
+}
+
+.post-category {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  padding: .4em .7em;
+  margin-bottom: var(--space-2xs);
+  background: var(--blue);
+  box-shadow: 0 3px 6px var(--shadow);
+}
+
+.post-content, .page-content {
+  margin: var(--space-xl);
+
+  > * + * {
+    margin-top: var(--space-m);
+  }
+
+  > * + h2 {
+    margin-top: var(--space-l);
+  }
+
+  img {
+    display: block;
+    margin-inline: auto;
+  }
+
+  .question {
+    font-style: italic;
+    color: var(--blue);
+  }
+  
+  .answer {
+    margin-top: var(--space-2xs);
+  }
+}
+
+
+.post-tags {
+  font-size: var(--step--1);
+
+  &:before {
+    content: 'Tags: ';
+  }
+}
+
+.copyright {
+  font-style: italic;
+}
+
+.socials {
+
+  li {
+    display: inline;
+    margin-inline: .5em;
+  }
+  
+  svg {
+    fill: var(--gray);
+    width: 3em;
+    height: auto;
+  }
+}
+
+.pagination {
+  font-size: var(--step--1);
+  margin: var(--space-xl);
+  display: flex;
+  justify-content: space-between;
+}
+
+.next, .previous {
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+.next {
+  text-align: right;
+}
+
+.tag-header {
+  margin-bottom: var(--space-s);
+}
+
+.tag {
+  font-size: var(--step--1);
+  padding: var(--space-3xs);
+  background: var(--blue);
+  color: var(--lightcolor);
+
+  &:hover {
+    background: var(--purp);
+  }
+}

@@ -1,0 +1,42 @@
+.shape {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--purp);
+  animation: morph 5s ease-in-out infinite alternate forwards;
+  border-radius: 60% 30% 50% 70% / 60% 50% 65% 40%;
+  height: 300px;
+  width: 300px;
+  transition: all 1s ease-in-out;
+  z-index: 5;
+  overflow: hidden;
+ }
+ 
+ @keyframes morph {
+   0% {
+       border-radius:  60% 40% 50% 70% / 40% 50% 70% 40%;
+      //  background: linear-gradient(45deg, var(--primary) 0%, var(--secondary) 100%);
+   } 
+   
+   50% {
+       border-radius:  50% 60% 70% 40% / 55% 60% 45% 60%;
+      //  background: linear-gradient(45deg, var(--third) 0%, var(--secondary) 100%);
+   }
+   
+   100% {
+     border-radius:  70% 35% 50% 60% / 45% 50% 70% 35%;
+    //  background: linear-gradient(45deg, var(--primary) 0%, var(--secondary) 100%);
+   } 
+ }
+
+ 
+@keyframes spin {
+  from {
+    top:100%;
+    transform: translatex(-50%) rotate(0deg);
+  }
+  to{
+    top: -50px;
+      transform: translatex(-50%) rotate(360deg);
+  }
+}
