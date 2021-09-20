@@ -202,6 +202,7 @@ img {
 
 .column-wrap {
   min-height: 100vh;
+  width: 85rem;
   max-width: 85rem;
   padding-inline: var(--space-m-2xl);
 }
@@ -451,6 +452,10 @@ img {
 
 .post-content .answer, .page-content .answer {
   margin-top: var(--space-2xs);
+}
+
+.post-content h1, .page-content h1 {
+  text-align: center;
 }
 
 .post-tags {
