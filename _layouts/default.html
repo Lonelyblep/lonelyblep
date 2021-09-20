@@ -68,5 +68,16 @@
           <span class="copyright">Copyright 2021 Jack Nguyen.</span>
         </footer>
       </div>
+      <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      </script>
     </body>
 </html>
