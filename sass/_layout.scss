@@ -1,12 +1,15 @@
 .column-wrap, .site-wrap, .nav-mobile__list {
   display: flex;
-  flex-direction: column;
+}
+
+.column-wrap, .nav-mobile__list {
+flex-direction: column;
 }
 
 .column-wrap {  
   min-height: 100vh;
   width: 85rem;
-  max-width: 85rem;
+  max-width: 100%;
   padding-inline: var(--space-m-2xl);
 }
 
@@ -47,7 +50,7 @@
     
     div {      
     width: 6px;
-    margin-left: 15px;
+    margin-left: 10px;
     }
   }
 }
@@ -57,9 +60,9 @@
   top: 0;
   right: 0;
   z-index: 1;
-  width: 56px;
-  height: 56px;
-  padding: 14px;
+  width: 50px;
+  height: 50px;
+  padding: 12px;
   background: var(--blue);
   transition: 0.3s ease transform;
 
@@ -137,12 +140,12 @@
     position: sticky;
     top: var(--space-l);
     margin-left: var(--space-l);
-    margin-top: var(--space-l);
+    margin-top: var(--space-xl);
     }
 }
 
 .section-header {
-  margin-block: var(--space-l);
+  margin-block: var(--space-xl);
   padding-left: var(--space-xs);
   border-left: var(--space-xs) solid var(--blue); 
 }
