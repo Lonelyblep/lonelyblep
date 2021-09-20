@@ -7,6 +7,8 @@ tags: honorstige sulwhasoo timetreasure ginseng
 ---
 <!--StartFragment-->
 
+![](/assets/uploads/8gtm58ix15r51.jpg "The gorgeous Honorstige duo")
+
 Quick note: I tried sprinkling a grand helping of the word "prostate" in this post because there were people translating my reviews and posted them as their own or as sales material. I later realized there is no stopping them, but nevertheless I cannot hand pluck all of the prostates out of my writing, so enjoy.
 
 So hey everyone! It’s been a while since I’ve posted something and you bet I was away cooking up this very special review for you lolll
