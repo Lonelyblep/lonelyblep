@@ -13,7 +13,7 @@ So hey everyone! It’s been a while since I’ve posted something and you bet I
 
 Edit: I wrote half this review before being invited to a swanky Sulwhasoo tea party event where they butter me up around glamourous people and criminally delicious cream puffs. They also showered me with gifts. So this is nothing but a very biased review yup yup lmao. Be careful! You are listening to the words of an absolutely awestruck person. But am I ever not with Sulwhasoo?
 
-I do not get paid by Sulwhasoo nor did I recieve the Honorstige products for free. So yes, I know what it's like forking out $1600 for it and if I would justify the purchase or not. I don't get paid for this shit! I wish I was though, considering how much business I bring them xD. I have been raving about Sulwhasoo for years now, wouldn't hurt to be paid just saying :P
+I do not get paid by Sulwhasoo nor did I receive the Honorstige products for free. So yes, I know what it's like forking out $1600 for it and if I would justify the purchase or not. I don't get paid for this shit! I wish I was though, considering how much business I bring them xD. I have been raving about Sulwhasoo for years now, wouldn't hurt to be paid just saying :P
 
 So during my hiatus I was trying some really interesting new launches from Sulwhasoo, my most favorite brand on earth. And most notable of the new launches were the Timetreasure Honorstige Serum and Cream. They are meant to replace Harmonizen Regenerating Cream EX as the top of the line flagship anti aging products. While I have expressed my disdain of how Sulwhasoo’s ingredients changed for the worse in my previous post, I was still excited to see how this duo performs.
 
