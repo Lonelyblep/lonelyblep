@@ -1,0 +1,10 @@
+---
+layout: post
+title: What's good y'all!!!
+date: 2021-09-20T05:00:28.950Z
+categories: Ruminations
+tags: ruminations first-post miscellaneous
+---
+SOOOOOO! Hi guys! After about a week of hard work, my bestie An (brainsoup.me) has managed to whip up this website for me and I am so excited because this will be the first of my many blog posts on here. I want to thank her firstly and secondly I wanna show you some of my plans for this blog. So as you know, I'm pretty big on skincare, haircare and just beauty in general so it's mostly gonna be about that. I'll also be posting some of my broke college student cooking just in case anyone would be interested. Memes always have a place in this household. And of course ruminations about my life, work and the beauty industry reign supreme in this virtual country I have created. I will be reposting some of my Reddit content here for non-Reddit followers too!
+
+So after years of being told I should have a blog, here I am. This would be your typical gen Z wine mom style blog where we chat luxury beauty, cooking and lifestyle, as in how to (look like you) function with the least amount of sleep, or how to make your room smell like anything other than ganja. I want to provide you with humorous beauty content, unfiltered thoughts with a smidgen of other things, and I hope you will enjoy them. I wonder what's in store for me next, a podcast? Youtube star? Eventually Onlyfans? We will never know. And I'm contemplating whether or not to still post on Reddit because it's so hard to get my posts approved for some reason in that subreddit and my scope of skincare products I can post about is limited. But I need the exposure so maybe I'll consider clout chasing on Reddit. Or better yet, cuss out everybody in the beauty community and make a fuss. Lol jk jk. Anyway, I'll get to uploading my older stuff now, see ya in the next posts!
